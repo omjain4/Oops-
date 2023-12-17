@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Mainly about Classes and object with "this" function and "." feature also "Final" keyword and garbage dump
+// which I have skipped in this code go watch kunal oops 1 notes aur notes
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
