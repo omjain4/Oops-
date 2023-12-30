@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"505cff7b-2803-4e4a-8574-ca9df0549fa4\" name=\"Changes\" comment=\"Oh! Hello there\">\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/Oops3.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Grandchid.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Parent.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Polymorphism/Circle.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Polymorphism/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Polymorphism/Shapes.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Polymorphism/Sqaure.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/Polymorphism/Triangle.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Oops3/src/child.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/Oops2/src/PackageExample/Hello.java\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Oops2/src/Staticex/Main.java\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2aDmf9NGbJwtrZNstPft7otsUOE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"jdk.selected.JAVA_MODULE\": \"21\",\r\n    \"last_opened_file_path\": \"A:/Projects/Oops\",\r\n    \"onboarding.tips.debug.path\": \"A:/Projects/Oops/Oops3/src/Main.java\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File\": [\r\n      \"JAVA\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"505cff7b-2803-4e4a-8574-ca9df0549fa4\" name=\"Changes\" comment=\"\" />\r\n      <created>1703861624366</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1703861624366</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Oh! Hello there\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703868096703</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703868096703</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Oh! Hello there\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703868929867</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703868929867</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Oh! Hello there\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703872307921</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703872307921</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Oh! Hello there\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Oh! Hello there\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7c09b3e4ec6124c82586cf32b769ccf63dfb50ea)
++++ b/.idea/workspace.xml	(date 1703953924996)
+@@ -4,20 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="505cff7b-2803-4e4a-8574-ca9df0549fa4" name="Changes" comment="Oh! Hello there">
+-      <change afterPath="$PROJECT_DIR$/Oops3/Oops3.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Grandchid.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Parent.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Circle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Shapes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Sqaure.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Triangle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Oops3/src/child.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="505cff7b-2803-4e4a-8574-ca9df0549fa4" name="Changes" comment="Oh! Hello there" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -31,6 +18,7 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="HighlightingSettingsPerFile">
+@@ -101,11 +89,20 @@
+       <option name="project" value="LOCAL" />
+       <updated>1703872307921</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Oh! Hello there">
++      <option name="closed" value="true" />
++      <created>1703953911455</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1703953911455</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="Inheritance, Polymorphism, Encapsulation and abstraction" />
+     <MESSAGE value="Oh! Hello there" />
+     <option name="LAST_COMMIT_MESSAGE" value="Oh! Hello there" />
+   </component>
