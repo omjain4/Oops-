@@ -1,4 +1,4 @@
-import com.sun.source.tree.ParenthesizedTree;
+package Inheritance;
 
 public class Parent {
     double length;

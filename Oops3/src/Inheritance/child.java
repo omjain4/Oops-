@@ -1,4 +1,6 @@
-public class child extends Parent{
+package Inheritance;
+
+public class child extends Parent {
     double weight;
 
     public child(double length, double height, double width, double weight) {

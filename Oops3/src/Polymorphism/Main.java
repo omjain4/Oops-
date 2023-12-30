@@ -17,15 +17,15 @@ public class Main {
     /*
     1. (Method Overloading)Static/Compile time ---
     Early Binding
-    Example for this is Parents and child
-    same name Parent but different parameters are passed
+    Example for this is Parents and Inheritance.child
+    same name Inheritance.Parent but different parameters are passed
     which constructor to use or which one to use happens at compile time
      that's why it is known as compile time polymorphism
 
      2. Method Overriding or Runtime/Dynamic ---
      (Late Binding)
      Example is of shapes.
-     void area() is being overridden by child classes
+     void area() is being overridden by Inheritance.child classes
      when name/parameters and return type are same but body is different from it in this case,
      it can also be checked by writing @override above that method
 

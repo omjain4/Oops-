@@ -1,4 +1,6 @@
-public class Grandchid extends child{
+package Inheritance;
+
+public class Grandchid extends child {
 
     double cost;
     public Grandchid(double length, double height, double width, double weight, double cost) {
