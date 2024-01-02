@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="505cff7b-2803-4e4a-8574-ca9df0549fa4" name="Changes" comment="Oh! Hello there">
-      <change afterPath="$PROJECT_DIR$/Oops4/Oops4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/Main/Mainsubclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/Main/Nothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/Main/Private.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/OtherOne/Protected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops4/src/OtherOne/Public.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/Oops5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/ParentAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/Sonabstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/CDPLAYER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Nicecar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/PowerEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops3/src/Grandchid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops3/src/Inheritance/Grandchid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops3/src/Inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops3/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops3/src/Inheritance/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops3/src/Polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops3/src/Polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops3/src/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops3/src/Inheritance/child.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,24 +69,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "A:/Projects/Oops",
-    "onboarding.tips.debug.path": "A:/Projects/Oops/Oops4/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/Projects/Oops&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;A:/Projects/Oops/Oops5/src/Main.java&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -136,5 +138,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Oh! Hello there" />
     <option name="LAST_COMMIT_MESSAGE" value="Oh! Hello there" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Oops5/src/Abstract/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
