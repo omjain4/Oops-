@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="505cff7b-2803-4e4a-8574-ca9df0549fa4" name="Changes" comment="Oh! Hello there">
-      <change afterPath="$PROJECT_DIR$/Oops5/Oops5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/ParentAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Abstract/Sonabstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/CDPLAYER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/Nicecar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops5/src/Interfaces/PowerEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="505cff7b-2803-4e4a-8574-ca9df0549fa4" name="Changes" comment="Oh! Hello there" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +104,55 @@
       <option name="project" value="LOCAL" />
       <updated>1703872307921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823914412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823914412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823921168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823921168</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823931675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823931675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823935123</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823935123</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823939428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823939428</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Oh! Hello there">
+      <option name="closed" value="true" />
+      <created>1704823986959</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704823986959</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
