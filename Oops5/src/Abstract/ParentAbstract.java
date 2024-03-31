@@ -8,4 +8,5 @@ public abstract class ParentAbstract {
 // also be declared as abstract
    abstract void career(String name);
 
+
 }
